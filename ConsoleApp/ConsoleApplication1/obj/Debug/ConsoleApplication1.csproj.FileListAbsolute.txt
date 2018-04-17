@@ -1,0 +1,32 @@
+C:\Users\kirteem\Documents\Visual Studio 2015\Projects\DevCon2018\ConsoleApp\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\kirteem\Documents\Visual Studio 2015\Projects\DevCon2018\ConsoleApp\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\kirteem\Documents\Visual Studio 2015\Projects\DevCon2018\ConsoleApp\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\kirteem\Documents\Visual Studio 2015\Projects\DevCon2018\ConsoleApp\ConsoleApplication1\bin\Debug\Hangfire.Core.dll
+C:\Users\kirteem\Documents\Visual Studio 2015\Projects\DevCon2018\ConsoleApp\ConsoleApplication1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kirteem\Documents\Visual Studio 2015\Projects\DevCon2018\ConsoleApp\ConsoleApplication1\bin\Debug\Owin.dll
+C:\Users\kirteem\Documents\Visual Studio 2015\Projects\DevCon2018\ConsoleApp\ConsoleApplication1\bin\Debug\Hangfire.Core.xml
+C:\Users\kirteem\Documents\Visual Studio 2015\Projects\DevCon2018\ConsoleApp\ConsoleApplication1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\kirteem\Documents\Visual Studio 2015\Projects\DevCon2018\ConsoleApp\ConsoleApplication1\bin\Debug\es\Hangfire.Core.resources.dll
+C:\Users\kirteem\Documents\Visual Studio 2015\Projects\DevCon2018\ConsoleApp\ConsoleApplication1\bin\Debug\zh\Hangfire.Core.resources.dll
+C:\Users\kirteem\Documents\Visual Studio 2015\Projects\DevCon2018\ConsoleApp\ConsoleApplication1\bin\Debug\zh-TW\Hangfire.Core.resources.dll
+C:\Users\kirteem\Documents\Visual Studio 2015\Projects\DevCon2018\ConsoleApp\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\kirteem\Documents\Visual Studio 2015\Projects\DevCon2018\ConsoleApp\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\kirteem\Documents\Visual Studio 2015\Projects\DevCon2018\ConsoleApp\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\kirteem\Documents\Visual Studio 2015\Projects\DevCon2018\ConsoleApp\ConsoleApplication1\bin\Debug\Hangfire.SqlServer.dll
+C:\Users\kirteem\Documents\Visual Studio 2015\Projects\DevCon2018\ConsoleApp\ConsoleApplication1\bin\Debug\Hangfire.SqlServer.xml
+C:\Workspace\DevCon\ConsoleApp\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Workspace\DevCon\ConsoleApp\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Workspace\DevCon\ConsoleApp\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Workspace\DevCon\ConsoleApp\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Workspace\DevCon\ConsoleApp\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Workspace\DevCon\ConsoleApp\ConsoleApplication1\bin\Debug\Hangfire.Core.dll
+C:\Workspace\DevCon\ConsoleApp\ConsoleApplication1\bin\Debug\Hangfire.SqlServer.dll
+C:\Workspace\DevCon\ConsoleApp\ConsoleApplication1\bin\Debug\Newtonsoft.Json.dll
+C:\Workspace\DevCon\ConsoleApp\ConsoleApplication1\bin\Debug\Owin.dll
+C:\Workspace\DevCon\ConsoleApp\ConsoleApplication1\bin\Debug\Hangfire.Core.xml
+C:\Workspace\DevCon\ConsoleApp\ConsoleApplication1\bin\Debug\Hangfire.SqlServer.xml
+C:\Workspace\DevCon\ConsoleApp\ConsoleApplication1\bin\Debug\Newtonsoft.Json.xml
+C:\Workspace\DevCon\ConsoleApp\ConsoleApplication1\bin\Debug\es\Hangfire.Core.resources.dll
+C:\Workspace\DevCon\ConsoleApp\ConsoleApplication1\bin\Debug\zh\Hangfire.Core.resources.dll
+C:\Workspace\DevCon\ConsoleApp\ConsoleApplication1\bin\Debug\zh-TW\Hangfire.Core.resources.dll
+C:\Workspace\DevCon\ConsoleApp\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache

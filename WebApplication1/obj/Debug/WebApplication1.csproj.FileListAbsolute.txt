@@ -1,0 +1,150 @@
+C:\Users\kirteem\Documents\Visual Studio 2015\Projects\DevCon2018\WebApplication1\bin\roslyn\csc.exe
+C:\Users\kirteem\Documents\Visual Studio 2015\Projects\DevCon2018\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\kirteem\Documents\Visual Studio 2015\Projects\DevCon2018\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\kirteem\Documents\Visual Studio 2015\Projects\DevCon2018\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\kirteem\Documents\Visual Studio 2015\Projects\DevCon2018\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\kirteem\Documents\Visual Studio 2015\Projects\DevCon2018\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\kirteem\Documents\Visual Studio 2015\Projects\DevCon2018\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\kirteem\Documents\Visual Studio 2015\Projects\DevCon2018\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\kirteem\Documents\Visual Studio 2015\Projects\DevCon2018\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\kirteem\Documents\Visual Studio 2015\Projects\DevCon2018\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\kirteem\Documents\Visual Studio 2015\Projects\DevCon2018\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\kirteem\Documents\Visual Studio 2015\Projects\DevCon2018\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\kirteem\Documents\Visual Studio 2015\Projects\DevCon2018\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\kirteem\Documents\Visual Studio 2015\Projects\DevCon2018\WebApplication1\bin\WebApplication1.dll
+C:\Users\kirteem\Documents\Visual Studio 2015\Projects\DevCon2018\WebApplication1\bin\WebApplication1.pdb
+C:\Users\kirteem\Documents\Visual Studio 2015\Projects\DevCon2018\WebApplication1\bin\Antlr3.Runtime.dll
+C:\Users\kirteem\Documents\Visual Studio 2015\Projects\DevCon2018\WebApplication1\bin\EntityFramework.dll
+C:\Users\kirteem\Documents\Visual Studio 2015\Projects\DevCon2018\WebApplication1\bin\EntityFramework.SqlServer.dll
+C:\Users\kirteem\Documents\Visual Studio 2015\Projects\DevCon2018\WebApplication1\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\kirteem\Documents\Visual Studio 2015\Projects\DevCon2018\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\kirteem\Documents\Visual Studio 2015\Projects\DevCon2018\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\kirteem\Documents\Visual Studio 2015\Projects\DevCon2018\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\kirteem\Documents\Visual Studio 2015\Projects\DevCon2018\WebApplication1\bin\Microsoft.Owin.dll
+C:\Users\kirteem\Documents\Visual Studio 2015\Projects\DevCon2018\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\kirteem\Documents\Visual Studio 2015\Projects\DevCon2018\WebApplication1\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\kirteem\Documents\Visual Studio 2015\Projects\DevCon2018\WebApplication1\bin\Microsoft.Owin.Security.dll
+C:\Users\kirteem\Documents\Visual Studio 2015\Projects\DevCon2018\WebApplication1\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\kirteem\Documents\Visual Studio 2015\Projects\DevCon2018\WebApplication1\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\kirteem\Documents\Visual Studio 2015\Projects\DevCon2018\WebApplication1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\kirteem\Documents\Visual Studio 2015\Projects\DevCon2018\WebApplication1\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\kirteem\Documents\Visual Studio 2015\Projects\DevCon2018\WebApplication1\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\kirteem\Documents\Visual Studio 2015\Projects\DevCon2018\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\kirteem\Documents\Visual Studio 2015\Projects\DevCon2018\WebApplication1\bin\Newtonsoft.Json.dll
+C:\Users\kirteem\Documents\Visual Studio 2015\Projects\DevCon2018\WebApplication1\bin\Owin.dll
+C:\Users\kirteem\Documents\Visual Studio 2015\Projects\DevCon2018\WebApplication1\bin\System.Web.Helpers.dll
+C:\Users\kirteem\Documents\Visual Studio 2015\Projects\DevCon2018\WebApplication1\bin\System.Web.Mvc.dll
+C:\Users\kirteem\Documents\Visual Studio 2015\Projects\DevCon2018\WebApplication1\bin\System.Web.Optimization.dll
+C:\Users\kirteem\Documents\Visual Studio 2015\Projects\DevCon2018\WebApplication1\bin\System.Web.Razor.dll
+C:\Users\kirteem\Documents\Visual Studio 2015\Projects\DevCon2018\WebApplication1\bin\System.Web.WebPages.Deployment.dll
+C:\Users\kirteem\Documents\Visual Studio 2015\Projects\DevCon2018\WebApplication1\bin\System.Web.WebPages.dll
+C:\Users\kirteem\Documents\Visual Studio 2015\Projects\DevCon2018\WebApplication1\bin\System.Web.WebPages.Razor.dll
+C:\Users\kirteem\Documents\Visual Studio 2015\Projects\DevCon2018\WebApplication1\bin\WebGrease.dll
+C:\Users\kirteem\Documents\Visual Studio 2015\Projects\DevCon2018\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\kirteem\Documents\Visual Studio 2015\Projects\DevCon2018\WebApplication1\bin\System.Web.Helpers.xml
+C:\Users\kirteem\Documents\Visual Studio 2015\Projects\DevCon2018\WebApplication1\bin\System.Web.Mvc.xml
+C:\Users\kirteem\Documents\Visual Studio 2015\Projects\DevCon2018\WebApplication1\bin\System.Web.Optimization.xml
+C:\Users\kirteem\Documents\Visual Studio 2015\Projects\DevCon2018\WebApplication1\bin\System.Web.Razor.xml
+C:\Users\kirteem\Documents\Visual Studio 2015\Projects\DevCon2018\WebApplication1\bin\System.Web.WebPages.xml
+C:\Users\kirteem\Documents\Visual Studio 2015\Projects\DevCon2018\WebApplication1\bin\System.Web.WebPages.Deployment.xml
+C:\Users\kirteem\Documents\Visual Studio 2015\Projects\DevCon2018\WebApplication1\bin\System.Web.WebPages.Razor.xml
+C:\Users\kirteem\Documents\Visual Studio 2015\Projects\DevCon2018\WebApplication1\bin\Antlr3.Runtime.pdb
+C:\Users\kirteem\Documents\Visual Studio 2015\Projects\DevCon2018\WebApplication1\bin\Newtonsoft.Json.xml
+C:\Users\kirteem\Documents\Visual Studio 2015\Projects\DevCon2018\WebApplication1\bin\EntityFramework.xml
+C:\Users\kirteem\Documents\Visual Studio 2015\Projects\DevCon2018\WebApplication1\bin\EntityFramework.SqlServer.xml
+C:\Users\kirteem\Documents\Visual Studio 2015\Projects\DevCon2018\WebApplication1\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\kirteem\Documents\Visual Studio 2015\Projects\DevCon2018\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\kirteem\Documents\Visual Studio 2015\Projects\DevCon2018\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\kirteem\Documents\Visual Studio 2015\Projects\DevCon2018\WebApplication1\bin\Microsoft.Owin.xml
+C:\Users\kirteem\Documents\Visual Studio 2015\Projects\DevCon2018\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\kirteem\Documents\Visual Studio 2015\Projects\DevCon2018\WebApplication1\bin\Microsoft.Owin.Security.xml
+C:\Users\kirteem\Documents\Visual Studio 2015\Projects\DevCon2018\WebApplication1\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\kirteem\Documents\Visual Studio 2015\Projects\DevCon2018\WebApplication1\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\kirteem\Documents\Visual Studio 2015\Projects\DevCon2018\WebApplication1\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\kirteem\Documents\Visual Studio 2015\Projects\DevCon2018\WebApplication1\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\kirteem\Documents\Visual Studio 2015\Projects\DevCon2018\WebApplication1\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\kirteem\Documents\Visual Studio 2015\Projects\DevCon2018\WebApplication1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\kirteem\Documents\Visual Studio 2015\Projects\DevCon2018\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\kirteem\Documents\Visual Studio 2015\Projects\DevCon2018\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\kirteem\Documents\Visual Studio 2015\Projects\DevCon2018\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\kirteem\Documents\Visual Studio 2015\Projects\DevCon2018\WebApplication1\bin\Hangfire.Core.dll
+C:\Users\kirteem\Documents\Visual Studio 2015\Projects\DevCon2018\WebApplication1\bin\Hangfire.SqlServer.dll
+C:\Users\kirteem\Documents\Visual Studio 2015\Projects\DevCon2018\WebApplication1\bin\Hangfire.Core.xml
+C:\Users\kirteem\Documents\Visual Studio 2015\Projects\DevCon2018\WebApplication1\bin\Hangfire.SqlServer.xml
+C:\Users\kirteem\Documents\Visual Studio 2015\Projects\DevCon2018\WebApplication1\bin\es\Hangfire.Core.resources.dll
+C:\Users\kirteem\Documents\Visual Studio 2015\Projects\DevCon2018\WebApplication1\bin\zh\Hangfire.Core.resources.dll
+C:\Workspace\DevCon\WebApplication1\bin\roslyn\csc.exe
+C:\Workspace\DevCon\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Workspace\DevCon\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Workspace\DevCon\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Workspace\DevCon\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Workspace\DevCon\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Workspace\DevCon\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Workspace\DevCon\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Workspace\DevCon\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Workspace\DevCon\WebApplication1\bin\roslyn\vbc.exe
+C:\Workspace\DevCon\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Workspace\DevCon\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Workspace\DevCon\WebApplication1\bin\WebApplication1.dll.config
+C:\Workspace\DevCon\WebApplication1\bin\WebApplication1.dll
+C:\Workspace\DevCon\WebApplication1\bin\WebApplication1.pdb
+C:\Workspace\DevCon\WebApplication1\bin\Antlr3.Runtime.dll
+C:\Workspace\DevCon\WebApplication1\bin\EntityFramework.dll
+C:\Workspace\DevCon\WebApplication1\bin\EntityFramework.SqlServer.dll
+C:\Workspace\DevCon\WebApplication1\bin\Hangfire.Core.dll
+C:\Workspace\DevCon\WebApplication1\bin\Hangfire.SqlServer.dll
+C:\Workspace\DevCon\WebApplication1\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Workspace\DevCon\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Workspace\DevCon\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Workspace\DevCon\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Workspace\DevCon\WebApplication1\bin\Microsoft.Owin.dll
+C:\Workspace\DevCon\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Workspace\DevCon\WebApplication1\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Workspace\DevCon\WebApplication1\bin\Microsoft.Owin.Security.dll
+C:\Workspace\DevCon\WebApplication1\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Workspace\DevCon\WebApplication1\bin\Microsoft.Owin.Security.Google.dll
+C:\Workspace\DevCon\WebApplication1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Workspace\DevCon\WebApplication1\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Workspace\DevCon\WebApplication1\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Workspace\DevCon\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\Workspace\DevCon\WebApplication1\bin\Newtonsoft.Json.dll
+C:\Workspace\DevCon\WebApplication1\bin\Owin.dll
+C:\Workspace\DevCon\WebApplication1\bin\System.Web.Helpers.dll
+C:\Workspace\DevCon\WebApplication1\bin\System.Web.Mvc.dll
+C:\Workspace\DevCon\WebApplication1\bin\System.Web.Optimization.dll
+C:\Workspace\DevCon\WebApplication1\bin\System.Web.Razor.dll
+C:\Workspace\DevCon\WebApplication1\bin\System.Web.WebPages.Deployment.dll
+C:\Workspace\DevCon\WebApplication1\bin\System.Web.WebPages.dll
+C:\Workspace\DevCon\WebApplication1\bin\System.Web.WebPages.Razor.dll
+C:\Workspace\DevCon\WebApplication1\bin\WebGrease.dll
+C:\Workspace\DevCon\WebApplication1\bin\Hangfire.Core.xml
+C:\Workspace\DevCon\WebApplication1\bin\Hangfire.SqlServer.xml
+C:\Workspace\DevCon\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Workspace\DevCon\WebApplication1\bin\System.Web.Helpers.xml
+C:\Workspace\DevCon\WebApplication1\bin\System.Web.Mvc.xml
+C:\Workspace\DevCon\WebApplication1\bin\System.Web.Optimization.xml
+C:\Workspace\DevCon\WebApplication1\bin\System.Web.Razor.xml
+C:\Workspace\DevCon\WebApplication1\bin\System.Web.WebPages.xml
+C:\Workspace\DevCon\WebApplication1\bin\System.Web.WebPages.Deployment.xml
+C:\Workspace\DevCon\WebApplication1\bin\System.Web.WebPages.Razor.xml
+C:\Workspace\DevCon\WebApplication1\bin\Antlr3.Runtime.pdb
+C:\Workspace\DevCon\WebApplication1\bin\Newtonsoft.Json.xml
+C:\Workspace\DevCon\WebApplication1\bin\EntityFramework.xml
+C:\Workspace\DevCon\WebApplication1\bin\EntityFramework.SqlServer.xml
+C:\Workspace\DevCon\WebApplication1\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Workspace\DevCon\WebApplication1\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Workspace\DevCon\WebApplication1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Workspace\DevCon\WebApplication1\bin\Microsoft.Owin.xml
+C:\Workspace\DevCon\WebApplication1\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Workspace\DevCon\WebApplication1\bin\Microsoft.Owin.Security.xml
+C:\Workspace\DevCon\WebApplication1\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Workspace\DevCon\WebApplication1\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Workspace\DevCon\WebApplication1\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Workspace\DevCon\WebApplication1\bin\Microsoft.Owin.Security.Google.xml
+C:\Workspace\DevCon\WebApplication1\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Workspace\DevCon\WebApplication1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Workspace\DevCon\WebApplication1\bin\es\Hangfire.Core.resources.dll
+C:\Workspace\DevCon\WebApplication1\bin\zh\Hangfire.Core.resources.dll
+C:\Workspace\DevCon\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Workspace\DevCon\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Workspace\DevCon\WebApplication1\obj\Debug\WebApplication1.pdb
